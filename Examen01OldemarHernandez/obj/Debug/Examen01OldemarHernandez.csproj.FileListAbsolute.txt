@@ -1,0 +1,7 @@
+C:\Users\Olde\source\repos\Examen01OldemarHernandez\Examen01OldemarHernandez\obj\Debug\Examen01OldemarHernandez.csprojAssemblyReference.cache
+C:\Users\Olde\source\repos\Examen01OldemarHernandez\Examen01OldemarHernandez\obj\Debug\Examen01OldemarHernandez.csproj.CoreCompileInputs.cache
+C:\Users\Olde\source\repos\Examen01OldemarHernandez\Examen01OldemarHernandez\bin\Debug\Examen01OldemarHernandez.exe.config
+C:\Users\Olde\source\repos\Examen01OldemarHernandez\Examen01OldemarHernandez\bin\Debug\Examen01OldemarHernandez.exe
+C:\Users\Olde\source\repos\Examen01OldemarHernandez\Examen01OldemarHernandez\bin\Debug\Examen01OldemarHernandez.pdb
+C:\Users\Olde\source\repos\Examen01OldemarHernandez\Examen01OldemarHernandez\obj\Debug\Examen01OldemarHernandez.exe
+C:\Users\Olde\source\repos\Examen01OldemarHernandez\Examen01OldemarHernandez\obj\Debug\Examen01OldemarHernandez.pdb
